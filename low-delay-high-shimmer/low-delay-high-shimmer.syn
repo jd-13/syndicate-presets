@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root SchemaVersion="1">
+  <Params Macro1="0.0" Macro2="0.0" Macro3="0.0" Macro4="0.0" OutputGain="-1.341104507446289e-6"
+          OutputPan="-2.235174179077148e-8">
+    <SplitterParameters>
+      <Splitter SplitType="multiband">
+        <Chains>
+          <Chain_0 isSoloed="0" isChainBypassed="0" isChainMuted="0">
+            <Plugins>
+              <Slot_0 SlotType="Plugin" isSlotBypassed="0" PluginData="3933.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIQUtETcOEQ.DC..............2Dfs0pG.....DPrO2B.....AsOlm+....7vuUp7O....PHmNo7Cf..PDenCX.....DgHSo3O....SbQZd+Cf..PEGxyB.....nQcXqH.....ZTG1KB....fF0gMi.....nQcX2H.....ZTG1NB....fF0g8i.....nQcXCI.....ZTG1QB....fF0gsj.....PhwpKL.....tj6s97yLyLCMEgi4.....PSQ3bN.....zTDNnC.....MEgS5.....PSQ3nN.....zTDNqC.....MEgC6.....Xi2+3vO....138OT7C...vNFWSH.....zi7E8G.....+.lek......Pu3+M.....TD6BV0OyLyLE8db4B....PQ4uVo.....XzAbA7O.B..IwFKU+Cf..fRgMOV+....rjO2EF.....RcMCbB....PUD2QB.....XEb.H7O....cgwQG7C....XfQDL.....HFHUv7O....hUhj1.....vYsLtL+.H..jFAca4O.B..o4v7C.....vZAhcl+.H..f2X8X3O.B..3A2SkB.....dIuZ+.....jGUT.8O....RyPCNDQTwDkLQ+.DQASUI4Fb0QWzOHgUOUGcvUGcRTWXSICD.HQX00lYOEACkZ0PxDBmL...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7LUPNQTSA4DTR8zTEQEUI4zQSABbrU2Yo4lUkI2bo8la8HRLtLiKvHBHvIWYyUFcNEVak0iHDUlYgUGazIBHDUFagkWOh.iK0HBHDUFagk2TiEFakQVOh.iK0HBHI41Qgkla8HBLtXSN4jSN4jCN3.yM4.yMwHBHI41QgklaSMVXrUFY8HBLtjSN4jSN4jCMvLSN0LSM0HiHfzTczUVRtAWcz0iHv3BLh.RS0QWYI4Fb0Q2TiEFakQVOh.iKvHBHI4FTg4VOh.iK0HBHI4FTg41TiEFakQVOh.iKvHBHM8laukja8HBLt.iHfzzat8VRtM0XgwVYj0iHv3BLh.xTg0FbrUlTgQWY8HRLt.iHfLUXsAGakIUXzU1TiEFakQVOhDiKvHBHSAmbkEFYM8FYk0iHLklaqUFYh.BQkwVX4QUZsUlT8HBLtTiHfPTYrEVdTkVakI0TiEFakQVOh.iK0HBHTUVav81T441X8HRLt.iHfPUYsA2aSkmaiM0XgwVYj0iHw3BLh.BSuM1ZDUFagkWOh.iKvHBHL81XqQTYrEVdSMVXrUFY8HBLt.iHfXjbkUldk0iHv3BLh.hQxUVY5U1TiEFakQVOh.iKvHBHKkFarM0coQ2Xn0iHv3BLh.xRowFaScWZzMFZSMVXrUFY8HBLt.iHfHUY1UlbyUVOh.iKvHBHRUlckI2bkM0XgwVYj0iHv3BLh.xTzElbzQUZsUVOh.iKvHBHSQWXxQGUo0VYSMVXrUFY8HBLt.iHfTjajQUZsUVOhDiKvHBHE4FYTkVakM0XgwVYj0iHw3BLh.BSuM1ZFIWYkoWY8HBLt.iHfvzaislQxUVY5U1TiEFakQVOh.iKvHBHS01auQGZ8HRLt.iHfLUau8FcnM0XgwVYj0iHw3BLh.xTrUVYvYTZrQWYx0iHv3BLh.xTrUVYvYTZrQWYxM0XgwVYj0iHv3BLh.BQkwVX40zajUVOhHUY1UlbyUlHfLEbkMVZgwVOhDiKvHBHSAWYikVXrM0XgwVYj0iHw3BLh.BQoIGc8HBLt.iHfPTZxQ2TiEFakQVOh.iKvHBHDklbzISOh.iKvHBHDklbzIyTiEFakQVOh.iKvHBHPMEZoYFcL0iHv3RMh.BTSgVZlQGSSMVXrUFY8HRLt.iHf.0TnklYzIUOh.iK0HBHPMEZoYFcRM0XgwVYj0iHw3BLh.BTScUZtQ1a20iHw3BLh.BTScUZtQ1a2M0XgwVYj0iHv3RLv.CLv.CLvDCM4.SLwXSLh.BUgAWYSwVY20iHv3BLh.BUgAWYSwVY2M0XgwVYj0iHv3BLh.BUgA2TvIWYgQVOh.iK0HBHTEFbSAmbkEFYSMVXrUFY8HRLt.iHfPUXvETavMWOh.iK0HBHTEFbA0FbyM0XgwVYj0iHw3BLh.hS00FUgA2b8HBLtTiHf3TcsQUXvM2TiEFakQVOhjiKvHBHFUVYjIVXisVOh.iKyXyL3DiL0.iMwjCN3fyLwHBHFUVYjIVXis1TiEFakQVOh.iKyXyL3DiL0.iMwjCN3fyLwHBHXYTYkQlXgM1Z8HBLt.iHffkQkUFYhE1XqM0XgwVYj0iHv3BLh.BQoYlY0MWY8HBLt.iHfPTZlYVcyU1TiEFakQVOh.iKvHBHLA0P0Q2alYVOhDiKvHBHLA0P0Q2alY1TiEFakQVOhHCLvHCLt.iHffDTCUGcuYlY8HBLt.iHffDTCUGcuYlYSMVXrUFY8HhLv3BLh.xS0Q2Qgkla8HBLtXSN4jSN4jCN3.yM4.yMwHBHOUGcGEVZtM0XgwVYj0iHv3RN4jSN4jSNz.yL4TyL0TiLh.xTuYFcCwVZv0iHw3BLh.xTuYFcCwVZvM0XgwVYj0iHw3BLh.BQxk2UkQWOh.iK0HBHDIWdWUFcSMVXrUFY8HBLtTiHfLEckIWYu0iHv3RMh.xTzUlbk81TiEFakQVOh.iK0HBHMMUSuQVY8HBLt.iHfzzTM8FYkM0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8FawziHv3BLh.RSuQ1Pu4Fcx8FawL0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8FaxziHv3BLh.RSuQ1Pu4Fcx8FaxL0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8FayziHv3BLh.RSuQ1Pu4Fcx8FayL0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8FazziHv3BLh.RSuQ1Pu4Fcx8FazL0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8Fa0ziHv3BLh.RSuQ1Pu4Fcx8Fa0L0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8Fa1ziHv3BLh.RSuQ1Pu4Fcx8Fa1L0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8Fa2ziHv3BLh.RSuQ1Pu4Fcx8Fa2L0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8Fa3ziHv3BLh.RSuQ1Pu4Fcx8Fa3L0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8Fa4ziHv3BLh.RSuQ1Pu4Fcx8Fa4L0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8Faw.SOh.iKvHBHM8FYC8lazI2arECLSMVXrUFY8HBLt.iHfzzajMzatQmbuwVLwziHv3BLh.RSuQ1Pu4Fcx8FawDyTiEFakQVOh.iKvHBHM8FYC8lazI2arEiL8HBLt.iHfzzajMzatQmbuwVLxL0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8FawLSOh.iKvHBHM8FYC8lazI2arEyLSMVXrUFY8HBLt.iHfzzajMzatQmbuwVLzziHv3BLh.RSuQ1Pu4Fcx8FawPyTiEFakQVOh.iKvHBHM8FYC8lazI2arESM8HBLt.iHfzzajMzatQmbuwVL0L0XgwVYj0iHv3BLh.RSuQ1Pu4Fcx8FawXSOh.iKvHBHM8FYC8lazI2arEiMSMVXrUFY8HBLt.iH9vSauQVcrEFco8lafj1bM8FY0wVXzk1atYUZyklXrUVOh.iHfzVczUVOh.iH9vSauQ1b9vSauQ1Wv.RZtQVY30iHvHBHhkFbuwVXx0iHwHBHzUVav81T441X8HBLh.Rao4VZskldkQVOh.iHfPWdvUVOhLWZtUlH9vya0QGb0Q2b9vya0Q2Wv.xbiEFak0iHw3BLh7hO77xa0QGb0Q2b9vybrkFYkI2b9vybrkFYkIGHtEVak0iHA0DTh.hcgwVck0iHv3hMxTiHfL2XgwVYjYUXrUWY8HBLtHSMh7hO7LGaoQVYxAhag0VY8HhQRUTTh.hcgwVck0iHv3xL1fCNv.CLwPiL0bCMyDiHfL2XgwVYjYUXrUWY8HRLt.CLyHyL0HiLvjCL4DSL4HxK9vybrkFYkIGHtEVak0iHPgTPSUjHfXWXrUWY8HBLt.iHfL2XgwVYjYUXrUWY8HBLt.iHu3COuLGaoQVYxMmO7HVczQ2atMmO7HVczQ2atAhag0VY8HBUk0FbuMUdtMlHfXWXrUWY8HRLt.iHfL2XgwVYjYUXrUWY8HRLt.iHu3COhUGcz8laf3VXsUVOhTkaoITZh.hcgwVck0iHw3BLh.xbiEFakQlUgwVck0iHw3BLh7hO77hX0QGcu41b9vyKs8FYeAiO7z1aj8ULfjlajUFd8HRLh.hXoA2arElb8HRLh.Bck0FbuMUdtMVOh.iHfzVZtkVaooWYj0iHvHBHzkGbk0iHyklakIhO77VczAWczMmO77Vcz8ELfL2XgwVY8HRLt.iHu3COu7VczAWczMmO7LGaoQVYxMmO7LGaoQVYxAhag0VY8HRPMAkHfXWXrUWY8HBLtXiL0HBHyMVXrUFYVEFa0UVOh.iKxTiHu3COywVZjUlbf3VXsUVOhXjTEEkHfXWXrUWY8HBLtLiM3fCLv.SLzHSM2PyLwHBHyMVXrUFYVEFa0UVOhDiKv.yLxLSMxHCL4.SNwDSNh7hO7LGaoQVYxAhag0VY8HBTHEzTEIBH1EFa0UVOh.iKvHBHyMVXrUFYVEFa0UVOh.iKvHxK9vyKywVZjUlby4COhUGcz8lay4COhUGcz8laf3VXsUVOhPUYsA2aSkmaiIBH1EFa0UVOhDiKvHBHyMVXrUFYVEFa0UVOhDiKvHxK9viX0QGcu4FHtEVak0iHU4VZBklHfXWXrUWY8HRLt.iHfL2XgwVYjYUXrUWY8HRLt.iHu3COuHVczQ2atMmO77RauQ1Ww3COuz1ajMmO7L1at4VYiQWZu41bu3COuz1ajUGagQWZu4lO77xTA4DQMEjSPI0SSUDUTkjSGMkO.fUUtQWZzwVYjA.B.jA.l.vJ.fC..A.R.zD.eA.Y.jl.wHfMBfi.5HPOB7i.EI.RB7j.TIfUBr0CD........HP..........fA..................7PC">
+                <PLUGIN name="Unfiltered Audio Sandman Pro" format="AudioUnit" category="Effect"
+                        manufacturer="Plugin Alliance" version="1.3.0" file="AudioUnit:Effects/aumf,uaS2,UnAu"
+                        uniqueId="417a7f21" isInstrument="0" fileTime="0" infoUpdateTime="189a145fcd0"
+                        numInputs="1" numOutputs="1" isShell="0" hasARAExtension="0"
+                        uid="417a7f21"/>
+                <ModulationConfig ModulationIsActive="0"/>
+              </Slot_0>
+            </Plugins>
+          </Chain_0>
+          <Chain_1 isSoloed="0" isChainBypassed="0" isChainMuted="0">
+            <Plugins>
+              <Slot_0 SlotType="Plugin" isSlotBypassed="0" PluginData="920.VMjLg73....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCL13hUMoFSmo1Yt3hKt7zJlcUXxEDZisVRxH1a3vVX3fjTLQmKogjYTwVXogiQY8FMwjENHIUUTkEUKMCR38TNtHzSSsFagsVVWoEZUEiXl4RahsVSWkkdAUEV5clUOg1MBM0aIwlXmkzUjUGQTMlZqESX04xZhsVSWkkdMIyRSsFagsVVWoEZUEiX0YGUiM2ZrE1YzDCVqEDZig2MnE0YMYzX0kzUjUGTTkEaEY0XxEUaKkWVsgTN1MDUmkzUXMWUFM1ZIIiX4X2PTETRUAUSAIkVpASZHITRWoUamYzXzUULhkWRBgTLEYTXvTkUOgFQCwjcyHDSncCZOciKUAkTEQ0TlolQYgCRBE0ZMYEVzjjPHESQFEFLUY0SnY1PLQmKogTcyLzSPUjZTEDLDgzaQY0SnAEUYYWTGoEZtf1XmcmUisFLogDdTk1R1gDdKkicCQUPIUETMEjTZoFLogjQIcUV2U0UYQWSVQFZtf1XmcmUisFLogjcyHUSncCZOciKUAkTEQ0TlolQYgCRRIEcAc0X5kjPHESQFEFLUY0SnQzPLY2LBwDZ2f1S23RUPIUQTMkYpYTV3fjPT8VTxfkaIIDRwTjQgASUV8DZDkFSz4RZHU2LC8DTEoFUAACQH8VTV8DZtrlXqEEUYIWQVQFZtf1XmcmUisFLogzctLDSz4xPLYmKowDdlMjSyPzPNkGVogTcyLzSPUjZTEDLDgzaQY0SngTUYoWUsIFcIIDRwTjQgASUV8DZTkVSzA0TLMCUo0TdlMTS3IVdMkGTC0DZ2f1S23RUPIUQTMkYpYTV3fDdTsFMFkEZtf1XmcmUisFLogzctLDSz4RZHU2LC8DTEoFUAACQH8VTV8DZLUkV0TEaHYFVWgkbUcUV3fDdMAyLRwDdlMES3Y1PLACQ40DLhMjS2gDdKkic4sDTEwlXmAiUYoWUrIVdzLzS0wTUZQWUrM1aIYUV4QyPt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..">
+                <PLUGIN name="Luminance v2" format="VST3" category="Fx|Reverb" manufacturer="Sinevibes"
+                        version="2.1.0" file="/Library/Audio/Plug-Ins/VST3/SinevibesLuminance2.vst3"
+                        uniqueId="d1599474" isInstrument="0" fileTime="1783712db70" infoUpdateTime="189a145fcd1"
+                        numInputs="1" numOutputs="1" isShell="0" hasARAExtension="0"
+                        uid="feaaaa94"/>
+                <ModulationConfig ModulationIsActive="0"/>
+              </Slot_0>
+              <Slot_1 SlotType="Plugin" isSlotBypassed="0" PluginData="1922.VMjLgj2A...O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DyLxjiKKEkTZ4TRt3hKt3xY44jUXk1YVkkZ3TjX3UULhsVTxbUdQcEV5UULl8lSwD1bAISXzUEagoWPxA2aMIyUoclUXQ2XVkkZIcCb1kzUYkWUFMVYqwVXrgSLl4lVVokbUwVXmAiUYYFbZoUd3rVVm0jQiUWRWQ1PSAWXmAiUYYVN0fUczXzX3giQgIWUrIVYvXEV10zUlkVMVo0LHkDaEglVXASTxDFcEYUXq0jbt8VTwHjZ0XEVyUkQvwTV5MkYLUEYz0TLukWUwfkdqESXz0jVSUWTV8VLYYTXmMFa1QDZZgELQISXzUjUgsVSx41aQY0PpUiUXMWUF8lTEYzXqUEbiw1cVgUaIwzYtYjUioGNrE1YvXUVCsjVZoFMt7FcEYUXqUjVKslVskkbEESVBMERvcVUGMVczXEVyUUL1gFaFk0SPAWXmAiUYwlQTEVcU0VX5UEbiw1cVgUaII1YtYjUioGNrE1YvXUVCsjVZoVPt7FcEYUXqUkRT8VTxfkaiUiXq0jQi8FNrElZwPEVuQiUuESVFE1YiwlcDglVXASTxDFcEYUXq0jbt8VTV4hZ0XEVyUkQvYTUVkkZIYEVoMmUuESVFE1YiwlcDglVXASTxDFcEYUXq0jbt8VTrEjZ0XEVyUkUuc0ZFkkdmY0awjkQgc1XrYGQnoEVvDkLgQWQVE1ZMImauEULAoVMVg0bUEiaMslQjslVskkbEESVBkVVm4lQVMld3vVXmAiUYMzRZokZ24xazUjUgsVQZsTaNcUVoE0UZUGMw3VS3XTVqoUaYIWQwjkPWgDbmU0QiUGMVg0bUEicnwlQYkDTvE1YvXUVpEidgoVUw7VdUECV5sVLgQWU0P0ZQc0X1UEbiw1cVgUaIwzYtYjUioGNrE1YvXUVCsjVZo1at7FcEYUXqUjVKslVskkbEESVBMERvcVUGMVczXEVyUUL1gFaFkERPAWXmAiUYwFapEVLUwlX5UEbiw1cVgUaII1YtYjUioGNrE1YvXUVCsjVZoVRt7FcEYUXqUUMP4FNrIlZiUiXq0jQi8FNrElZwPkV40jUuESVFE1YiwlcDglVXASTxDFcEYUXq0jbt8VTw3hZ0XEVyUEauYENVoUZUEiXqoUaYIWQwjkPSgDbmU0QiUGMVg0bUEicnwlQYUDTvE1YvXUVsIEUXMWPWoEciY0awjkQgc1XrYGQnoEVvDkLgQWQVE1ZMImauEkQAoVMVg0bUw1aDUkQiACMVk0ZZ0VVxUTLYITdJIFdUEiXqEkLWkWTWgkdUEiYu4TLgMWPxDFcUwVX5kjavYWQrI1YvXUV5UEahkGMM4xTPAWU4gDQTEjUvM1Y2Y0XqkjXuk1YwDFdQYkYqo0UXIWUWkkKhoTVmAiQh8FMwjUPVA2XmcmUis1bL4hKt3hKt3hKt3BVJk0ZQc0XzUkUlslVWgkbUcUVKMjKt3hKt3hKt3hKrIEahQyXUkkdEg0awTjQgASUwf2JP0zZ2HjQt3hKt.GaUYUVpkjUXk1bVY1ZZcEVxU0UYszJSESVrkjct3hKtvFarEVLUwlX5UDVuESQFEFLUwlcsgGaYUGL5ElZUYkYqo0UXIWUWkkKlsTXrgCaSUWTWkESUwVXsE0QZQTUrEVcvXkVzUjQiUWRWY1ZZcEVxU0UYIDVKEFa3v1T0E0UYwTUrEVaQcjVNU0UgsVRWgkd3vlXAYEbic1cVM1ZEY2axkULgM0ZsEVZEg0awTjQgASUrY2awDSXpUDUgUWUsEldEg0awTjQgASUwf2Jt7jKt3hKt3hK181b3XTVRUjQisVQX8VLEYTXvTUL3shc2.WQBIjKt3hKuMGNFk0ZEg0awTjQgASUF4xZBckV50jQZEjUvM1Y2Y0XqUDQvkWSVgEcvnWXpUkUlslVWgkbUcUVtLiRi4VRWMlVUwlX0giZYwVSWkkdEg0awTjQgASUwfmKt3hKt3hKt3hKl8VL3XkVoUULhEjUvM1Y2Y0XqMGSt3hKt3hKt3hKtPUMi8VTFMlaEg0awTjQgASUwf2JxgCS44BQt3hKPAWLqYUVxfCLh81aWkENuokV4gCLX4VQrEVaUYTVCUmRhgWUwH1ZQIyUuQCaYUWSHAGaqYTXqQiUXMWUVECT3HzTukDahcVRWQVcDQjX1cmUZkVQFM1a3vVXlwTUiYWPxDFdQIyRNUjQi8VVWkkYpoVX4EUahACLVkEcQIiX0gEQgc1ZrIVcXQTXmQSLYsVRxrTRzPkTTEjTKYFVDE1YqwlXzMSLZkWVFQFbrEiXkkkUXkVTxDFdqIicpUiUXMWUFEWRzPkTTEjTKYFVDE1YqwlXv3zUYIWUwfkdUYTVkETahsVSWkkd3.CVm0jQZsVPt3BOujzPu0Fbu4VYtQmO7jTQjkFcC8lazI2arwVYx4CLtvyKIUDYoQ2Pu4Fcx8FarUlb9vyKVMEUy.Ea0cVZtMEcgQWY9.."
+                      PluginEditorBounds="776 340 449 411" DisplayArea="0 25 3440 1330">
+                <PLUGIN name="Flair" format="VST3" category="Fx|Modulation" manufacturer="Native Instruments"
+                        version="1.3.0 (R666666666)" file="/Library/Audio/Plug-Ins/VST3/Flair.vst3"
+                        uniqueId="9c2a6fa6" isInstrument="0" fileTime="17d9fc50508" infoUpdateTime="189a145fcd1"
+                        numInputs="1" numOutputs="1" isShell="0" hasARAExtension="0"
+                        uid="653276b"/>
+                <ModulationConfig ModulationIsActive="1">
+                  <ParamConfig_0 TargetParameterName="Rate" RestValue="0.2239843755960464">
+                    <Source_0 SourceId="1" SourceType="envelope" SourceAmount="0.6342812776565552"/>
+                  </ParamConfig_0>
+                  <ParamConfig_1 TargetParameterName="Mix" RestValue="0.3215781152248383">
+                    <Source_0 SourceId="1" SourceType="envelope" SourceAmount="0.6975937485694885"/>
+                  </ParamConfig_1>
+                </ModulationConfig>
+              </Slot_1>
+            </Plugins>
+          </Chain_1>
+        </Chains>
+        <Crossovers Crossover_0="1045.801879882812"/>
+      </Splitter>
+      <ModulationSources>
+        <LFOs>
+          <LFO_0 lfoBypass="1" lfoPhaseSync="1" lfoTempoSync="0" lfoInvert="0"
+                 lfoWave="1" lfoTempoNumer="1.0" lfoTempoDenom="1.0" lfoFreq="2.0"
+                 lfoFreqMod="0.0" lfoDepth="0.5" lfoDepthMod="0.0" lfoManualPhase="0.0"/>
+        </LFOs>
+        <Envelopes>
+          <Envelope_0 envelopeAttack="20.0" envelopeRelease="56.29" envelopeFilterEnabled="1"
+                      envelopeLowCut="0.0" envelopeHighCut="3054.2" envelopeAmount="5.0"/>
+        </Envelopes>
+      </ModulationSources>
+      <MacroNames MacroName_0="Macro 1" MacroName_1="Macro 2" MacroName_2="Macro 3"
+                  MacroName_3="Macro 4"/>
+      <MainWindowState MainEditorBounds="0 0 700 550" GraphViewScrollPosition="0" LfoButtonsScrollPosition="0"
+                       EnvButtonsScrollPosition="0">
+        <ChainViewScrollPositions Chain_0="0" Chain_1="0"/>
+        <SelectedSource SourceId="1" SourceType="lfo"/>
+      </MainWindowState>
+      <pluginSelectorState sortColumnId="0" sortForwards="1" includeVST="1" includeVST3="1"
+                           includeAU="1" filterString="native" bounds="1270 415 900 550"
+                           scrollPosition="0.0"/>
+      <pluginParameterSelectorState filterString="" bounds="1595 440 250 500" scrollPosition="0.0"/>
+    </SplitterParameters>
+  </Params>
+</Root>
